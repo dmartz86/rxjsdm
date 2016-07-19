@@ -3,7 +3,7 @@ RXJS Demo App.
 
 ## Install
 ````sh
-git clone https://github.com/dmartz86/rxjsdemo.git
+git clone https://github.com:dmartz86/rxjsdm.git
 npm install
 node app.js
 ````
